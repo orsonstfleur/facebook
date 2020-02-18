@@ -1,0 +1,78 @@
+*{
+  box-sizing: border-box;
+}
+
+}
+.container{
+  width:100%;
+  height:200px;
+  background-color:lightgreen;
+}
+.boxone{
+  width:25%;
+  height:200px;
+  background-color:pink;
+  float:left;
+}
+
+.names{
+  margin: 2%;
+}
+
+.signUp { 
+  width: 70%;
+}
+
+.bottomtwo form input{
+  margin: 2%;
+}
+
+.boxtwo{
+  width:25%;
+  height:200px;
+  background-color:purple;
+  float:left;
+}
+.boxthree {
+  width:25%;
+  height:200px;
+  background-color:blue;
+  float: left;
+
+}
+.boxfour{
+  width:25%;
+  height:200px;
+  background-color:yellow;
+  float:left;
+}
+
+.container{
+  height:600px;
+}
+
+.bottomone{
+  width:25%;
+  height:200px;
+  background-color:purple;
+  float:left;
+}
+.bottomtwo{
+  width:25%;
+  height:200px;
+  background-color:yellow;
+  float:left;
+}
+
+.bottomthree{
+  width:25%;
+  height:200px;
+  background-color:pink;
+  float:left;
+}
+.bottomfour{
+  width:25%;
+  height:200px;
+  background-color:purple;
+  float:left;
+}

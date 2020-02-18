@@ -1,0 +1,109 @@
+*{
+  box-sizing: border-box;
+}
+
+}
+.container{
+  width:100%;
+  height:125px;
+  background-color:lightgreen;
+}
+img{
+  width:60%;
+  height:85px;
+
+}
+input{
+  width: 175px;
+  height: 29px;
+  border-radius: 8px 8px 8px 8px;
+  padding-top:;
+}
+
+button{
+  width: 85px;
+  height: 29px;
+  border-radius: 8px 8px 8px 8px;
+  color: white;
+  background-color: darkblue;
+  border: none;
+}
+ span.login{
+   height: 20px
+ }
+ p.connect{
+   color: black;
+   font-size: 2.5em
+ }
+button.signinbox{
+  background-color: green
+}
+span.signin{
+  font-size: 20px
+}
+section.bottomtwo{
+  padding-top: 3%
+}
+.boxone{
+  width:25%;
+  height:90px;
+  background-color:#3b5998;
+  float:left;
+  padding-left: 70px
+
+}
+
+
+.boxtwo{
+  width:25%;
+  height:90px;
+  background-color:#3b5998;
+  float:left;
+}
+.boxthree{
+  width:25%;
+  height:90px;
+  background-color:#3b5998;
+  float:left;
+  padding-top: 30px;
+
+
+}
+.boxfour{
+  width:25%;
+  height:90px;
+  background-color:#3b5998;
+  float:left;
+  padding-top: 30px
+}
+
+.container{
+  height:600px;
+}
+
+.bottomone{
+  width:50%;
+  height:800px;
+  background-color: lightgrey;
+  float:left;
+  padding: 5% 10% 30% 6%
+}
+.bottomtwo{
+  width:50%;
+  height:800px;
+  background-color: lightgrey;
+  float:left;
+}
+
+.bottomthree{
+  width:25%;
+  height:200px;
+  background-color:pink;
+  float:left;
+}
+.bottomfour{
+  width:25%;
+  height:200px;
+  background-color:purple;
+  float:left;
+}
